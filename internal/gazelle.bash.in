@@ -17,7 +17,7 @@
 
 @@GENERATED_MESSAGE@@
 
-set -euo pipefail
+set -euo pipefail -x
 
 RUNNER_LABEL=@@RUNNER_LABEL@@
 GAZELLE_SHORT_PATH=@@GAZELLE_SHORT_PATH@@
